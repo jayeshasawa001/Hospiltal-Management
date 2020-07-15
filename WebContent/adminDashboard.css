@@ -1,0 +1,57 @@
+body {
+     background: url('https://southernprotectivegroup.com/wp-content/uploads/2018/10/steth.jpeg') fixed;
+    background-size: cover;
+}
+
+#TimePass{
+	padding-top:50px;
+	margin-top:60px;
+}
+
+*[role="form"] {
+    max-width: 530px;
+    left: 40%;
+    top: 30%;
+  
+    position: absolute;
+   
+    padding: 50px;
+    margin: 0 auto;
+     align:"center";
+    border-radius: 0.8em;
+    background-color: #f2f2f2;
+}
+
+*[role="form"] h2 { 
+    font-family: 'Open Sans' , sans-serif;
+    font-size: 90px;
+    font-weight: 800;
+    color: #000000;
+    margin-top: 80%;
+    text-align: center;
+    border-radius: 0.6em;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+
+input[type=submit]
+{
+	background-color: #6666ff;
+	border:none;
+	color:white;
+	padding:40px 50px;
+	margin:4px 2px;
+	cursor:pointer;
+	  border-radius: 3.0em;
+}
+.marquee {
+            height: 50px;
+            overflow: hidden;
+            position: relative;
+            background: #fefefe;
+            color: #333;
+            border: 1px solid #4a4a4a;
+        }
+        
+       
